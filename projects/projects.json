@@ -1,15 +1,5 @@
 [
   {
-    "name": "Blog Writing",
-    "desc": "Full fledged MERN stack project. Built using HTML, CSS, JS, Node, Express, MongoDB.",
-    "image": "blogWriting",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/Ankit3060/Blog-Writing-Version-2.0",
-      "code": "https://github.com/Ankit3060/Blog-Writing-Version-2.0"
-    }
-  },
-  {
     "name": "Weather App",
     "desc": "Get the weather of your location. Built using HTML, CSS, JS, Node, Express, weather API.",
     "image": "weatherApp",
@@ -40,13 +30,93 @@
     }
   },
   {
+    "name": "Facebook clone",
+    "desc": "This is facebook clone made with HTML, CSS, Tailwind CSS.",
+    "image": "facebook",
+    "category": "clone",
+    "links": {
+      "view": "https://clone-fb-two.vercel.app/",
+      "code": "https://github.com/Ankit3060/fbcopy"
+    }
+  },
+  {
     "name": "Mr. Mac Store",
     "desc": "This is a Shop website for refubrished items. Built using HTML, CSS, JS, Bootstrap.",
     "image": "Shop",
-    "category": "mern",
+    "category": "clone",
     "links": {
       "view": "https://mr-mac-store.vercel.app/",
       "code": "https://github.com/Ankit3060/Mr.Mac-store"
+    }
+  },
+  {
+    "name": "Razorpay Clone",
+    "desc": "This is Razorpay clone made with HTML, CSS, Tailwind CSS.",
+    "image": "razorpay",
+    "category": "clone",
+    "links": {
+      "view": "https://razor-pay-livid.vercel.app/",
+      "code": "https://github.com/Ankit3060/Razor-Pay"
+    }
+  },
+  {
+    "name": "Drum kit",
+    "desc": "This is Drum kit produce sound when clicked. Built using HTML, CSS, JS.",
+    "image": "drumkit",
+    "category": "basicweb",
+    "links": {
+      "view": "https://drum-kit-xi-blue.vercel.app/",
+      "code": "https://github.com/Ankit3060/Drum-kit"
+    }
+  },
+  {
+    "name": "Password Generator",
+    "desc": "This is password generator. Built using HTML, CSS, JS.",
+    "image": "passwordGenerator2",
+    "category": "basicweb",
+    "links": {
+      "view": "https://password-generator-ankit3060.vercel.app/",
+      "code": "https://github.com/Ankit3060/Password-Generator"
+    }
+  },
+  {
+    "name": "Movie recommendation system app",
+    "desc": "This is movie recommendation app. Built using .",
+    "image": "movie",
+    "category": "machinelearning",
+    "links": {
+      "view": "https://github.com/Ankit3060/Movie-Recommendation-System-App",
+      "code": "https://github.com/Ankit3060/Movie-Recommendation-System-App"
+    }
+  },
+  {
+    "name": "Joke App",
+    "desc": "This project is help to get the joke with lot of options. Built using HTML, CSS, JS,EJS, Node, Express, joke API.",
+    "image": "joke",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Ankit3060/Joke-App",
+      "code": "https://github.com/Ankit3060/Joke-App"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "This is Razorpay clone made with HTML, CSS, javaScript.",
+    "image": "spotify",
+    "category": "clone",
+    "links": {
+      "view": "https://spotify-clone-self-tau.vercel.app/",
+      "code": "https://github.com/Ankit3060/Spotify-Clone"
+    }
+  },
+  {
+    "name": "Blog Writing",
+    "desc": "Full fledged MERN stack project. Built using HTML, CSS, JS, Node, Express, MongoDB.",
+    "image": "blogWriting",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Ankit3060/Blog-Writing-Version-2.0",
+      "code": "https://github.com/Ankit3060/Blog-Writing-Version-2.0"
     }
   },
   {
@@ -80,43 +150,43 @@
     }
   },
   {
-    "name": "Joke App",
-    "desc": "This project is help to get the joke with lot of options. Built using HTML, CSS, JS,EJS, Node, Express, joke API.",
-    "image": "joke",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/Ankit3060/Joke-App",
-      "code": "https://github.com/Ankit3060/Joke-App"
-    }
-  },
-  {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
-    }
-  },
-  {
-    "name": "Drum kit",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "drumkit",
+    "name": "Tic Tac Toe",
+    "desc": "This is Tic Tac Toe. Built using HTML, CSS, JS.",
+    "image": "tictac",
     "category": "basicweb",
     "links": {
-      "view": "https://drum-kit-xi-blue.vercel.app/",
-      "code": "https://github.com/Ankit3060/Drum-kit"
+      "view": "https://tic-tac-toe-ankit3060.vercel.app/",
+      "code": "https://github.com/Ankit3060/Tic-Tac-Toe"
     }
   },
   {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
+    "name": "QR code Generator",
+    "desc": "QR code Generator. Built using HTML, CSS, JS.",
+    "image": "QR",
+    "category": "basicweb",
     "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
+      "view": "https://github.com/Ankit3060/QR-Code-Generator",
+      "code": "https://github.com/Ankit3060/QR-Code-Generator"
+    }
+  },
+  {
+    "name": "Tindog",
+    "desc": "This is dating website for dogs. Built using HTML, CSS, Bootstrap.",
+    "image": "tinDog",
+    "category": "basicweb",
+    "links": {
+      "view": "https://tindog-lemon.vercel.app/",
+      "code": "https://github.com/Ankit3060/tindog"
+    }
+  },
+  {
+    "name": "Naruto Game",
+    "desc": "This is Naruto game similar as chrome dino game made with HTML, CSS, JS, bootstrap.",
+    "image": "naruto",
+    "category": "basicweb",
+    "links": {
+      "view": "https://naruto-game-beta.vercel.app/",
+      "code": "https://github.com/Ankit3060/Naruto-Game"
     }
   }
 ]
