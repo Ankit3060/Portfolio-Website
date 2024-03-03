@@ -64,18 +64,6 @@
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
         "name": "jQuery",
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
@@ -101,6 +89,15 @@
     },
     {
         "name": "NLP",
-        "icon": "https://img.icons8.com/external-outline-black-m-oki-orlando/48/000000/external-natural-artificial-intelligence-outline-black-m-oki-orlando.png"
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/47/tableau-software.png"
+    },
+
+    {
+        "name": "Power-BI",
+        "icon": "https://img.icons8.com/color/48/power-bi.png"
     }
 ]
